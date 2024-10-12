@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working and studying.<br>🤝 I’m looking for help with python fastapi developer.<br>🌱 I’m currently learning fastapi.<br>💬 Ask me about django, drf, python.<br>⚡ I love pain and coding.
+<a href="https://wakatime.com/@018e9ffe-32fb-43d8-b2c6-d0499aeb695b"><img src="https://wakatime.com/badge/user/018e9ffe-32fb-43d8-b2c6-d0499aeb695b.svg" alt="Total time coded since Apr 2 2024" /></a>
 
 
 ## 🌐 Socials:
