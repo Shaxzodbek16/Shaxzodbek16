@@ -1,8 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working and studying.<br>🤝 I’m looking for help with python fastapi developer.<br>🌱 I’m currently learning fastapi.<br>💬 Ask me about django, drf, python.<br>⚡ I love pain and coding.
-
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shaxzodbek16) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shaxzodbek.muxtorov.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imshaxzodbek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaxzodbek-muxtorov-59144a294) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shaxzodbek1608) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shaxzodbek16) 
 <a href="https://wakatime.com/@018e9ffe-32fb-43d8-b2c6-d0499aeb695b"><img src="https://wakatime.com/badge/user/018e9ffe-32fb-43d8-b2c6-d0499aeb695b.svg" alt="Total time coded since Apr 2 2024" /></a>
